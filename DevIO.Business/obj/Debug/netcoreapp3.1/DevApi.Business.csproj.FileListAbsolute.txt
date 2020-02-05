@@ -1,0 +1,8 @@
+C:\Labs\DevApi\DevIO.Business\bin\Debug\netcoreapp3.1\DevApi.Business.deps.json
+C:\Labs\DevApi\DevIO.Business\bin\Debug\netcoreapp3.1\DevApi.Business.dll
+C:\Labs\DevApi\DevIO.Business\bin\Debug\netcoreapp3.1\DevApi.Business.pdb
+C:\Labs\DevApi\DevIO.Business\obj\Debug\netcoreapp3.1\DevApi.Business.AssemblyInfoInputs.cache
+C:\Labs\DevApi\DevIO.Business\obj\Debug\netcoreapp3.1\DevApi.Business.AssemblyInfo.cs
+C:\Labs\DevApi\DevIO.Business\obj\Debug\netcoreapp3.1\DevApi.Business.dll
+C:\Labs\DevApi\DevIO.Business\obj\Debug\netcoreapp3.1\DevApi.Business.pdb
+C:\Labs\DevApi\DevIO.Business\obj\Debug\netcoreapp3.1\DevApi.Business.csprojAssemblyReference.cache

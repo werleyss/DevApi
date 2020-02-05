@@ -1,0 +1,7 @@
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.deps.json
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.pdb
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Labs\DevIOApiCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.pdb

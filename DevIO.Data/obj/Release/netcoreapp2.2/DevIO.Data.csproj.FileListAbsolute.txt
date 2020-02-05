@@ -1,0 +1,8 @@
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.deps.json
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Labs\DevIOApiCompleta\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CopyComplete

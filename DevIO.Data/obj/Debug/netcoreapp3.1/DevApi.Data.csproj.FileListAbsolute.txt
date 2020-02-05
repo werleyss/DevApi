@@ -1,0 +1,13 @@
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Data.deps.json
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Data.runtimeconfig.json
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Data.runtimeconfig.dev.json
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Data.dll
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Data.pdb
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Business.dll
+C:\Labs\DevApi\DevIO.Data\bin\Debug\netcoreapp3.1\DevApi.Business.pdb
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.csprojAssemblyReference.cache
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.AssemblyInfoInputs.cache
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.AssemblyInfo.cs
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.csproj.CopyComplete
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.dll
+C:\Labs\DevApi\DevIO.Data\obj\Debug\netcoreapp3.1\DevApi.Data.pdb
